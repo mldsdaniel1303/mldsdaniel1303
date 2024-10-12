@@ -18,5 +18,5 @@
 ##
 
 <div align="center">
-  <img alaing=center alt="aigis" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.resetera.com%2Fthreads%2Fdevil-may-cry-5-domain-registered-resident-evil-2-domain-updated-more.46625%2F&psig=AOvVaw1GHYczevzmeyLtQVzVX06J&ust=1728855217334000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCSkIzmiYkDFQAAAAAdAAAAABBA.gif" />
+  <img alaing=center alt="aigis" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.resetera.com%2Fthreads%2Fdevil-may-cry-5-domain-registered-resident-evil-2-domain-updated-more.46625%2F&psig=AOvVaw1GHYczevzmeyLtQVzVX06J&ust=1728855217334000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCSkIzmiYkDFQAAAAAdAAAAABBA" />
 </div>
