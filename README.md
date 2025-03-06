@@ -2,8 +2,8 @@
 
 
 
-- 📚 Atualmente no 1° semestre da faculdade
-- 😜 Aprendendo Python e HTML
+- 📚 Atualmente no 2° semestre da faculdade
+- 😜 Aprendendo Python, HTML e Java
 
 <div align="center">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=mldsdaniel1303&show_icons=true&theme=chartreuse-dark"/>
