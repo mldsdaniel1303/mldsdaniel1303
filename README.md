@@ -2,8 +2,8 @@
 
 
 
-- 📚 Atualmente no 3° semestre da faculdade
-- 😜 Aprendendo Python, C#, HTML e Java
+- 📚 Atualmente no 4° semestre da faculdade
+- 😜 Aprendendo Python, C#, C, C++, HTML e Java
 
 <div align="center">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=mldsdaniel1303&show_icons=true&theme=chartreuse-dark"/>
