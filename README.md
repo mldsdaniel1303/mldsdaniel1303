@@ -10,7 +10,7 @@
 ## 👨‍💻 Sobre mim
 
 💼 Estagiário na ANATEL (Agência Nacional de Telecomunicações)  
-🎓 Estudante de Ciência da Computação – 4º semestre  
+🎓 Estudante de Ciência da Computação – 5º semestre  
 🐍 Focado em Python e automação  
 📚 Aprendendo C#, C++, e desenvolvimento de sistemas  
 🚀 Buscando evoluir constantemente como desenvolvedor  
